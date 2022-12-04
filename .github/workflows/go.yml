@@ -1,5 +1,6 @@
 name: Build and Deploy sprintnamegenerator.com
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
