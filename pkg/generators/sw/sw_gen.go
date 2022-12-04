@@ -1,4 +1,4 @@
-package marvel
+package sw
 
 import (
 	"github.com/flostadler/name-generator/pkg/randomizer"
